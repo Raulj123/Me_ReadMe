@@ -1,4 +1,4 @@
-<h1 align="center"> Hi I'm Raul😃 </h1>
+<h1 align="center"> Hi I'm Raul <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 <h3> In my spare time I binge watch coding videos and play rainbow </h3>
 
 [![](https://visitcount.itsvg.in/api?id=Raulj123&label=Profile%20Views&color=0&icon=4&pretty=false)](https://visitcount.itsvg.in)

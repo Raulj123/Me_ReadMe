@@ -1,6 +1,8 @@
 <h1 align="center"> Hi I'm Raul <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 In my spare time I binge watch coding videos and play Rocket League 🚙 
 
+[![Update GitHub Activity](https://github.com/Raulj123/Raulj123/actions/workflows/github-activity.yml/badge.svg)](https://github.com/Raulj123/Raulj123/actions/workflows/github-activity.yml)
+
 [![](https://visitcount.itsvg.in/api?id=Raulj123&label=Profile%20Views&color=0&icon=4&pretty=false)](https://visitcount.itsvg.in)
 
 ##  🖥️ Worked with.. 

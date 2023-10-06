@@ -24,6 +24,11 @@ In my spare time I binge watch coding videos and play Rocket League 🚙
 ![Svelte](https://img.shields.io/badge/svelte-%23E34F26.svg?style=for-the-badge&logo=svelte&logoColor=white)
 
 
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raulj123&layout=compact&theme=dark)](https://github.com/Raulj123/github-readme-stats)
 
 <details>

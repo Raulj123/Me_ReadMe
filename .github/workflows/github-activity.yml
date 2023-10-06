@@ -2,25 +2,18 @@ name: Update GitHub Activity
 
 on:
   schedule:
-    - cron: '0 0 * * 0' # every sunday for now
-  workflow_dispatch: {}
+    - cron: '0 0 * * 0' # every Sunday for now
+
 jobs:
   update-activity:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
+      - name: Checkout code
+        uses: actions/checkout@v2
 
-    - name: Fetch GitHub Activity
-      run: |
-        GH_PAT=${{ secrets.GH_PAT }}
-        GH_USERNAME=Raulj123
-        ACTIVITY=$(curl -s -H "Authorization: token $GH_PAT" "https://api.github.com/users/$GH_USERNAME/events/public")
-        echo "## My GitHub Activity" > README.md
-        echo "Recent GitHub activity for my repositories:" >> README.md
-        echo "$ACTIVITY" >> README.md
-      env:
-        GH_PAT: ${{ secrets.GH_PAT }}
-       
-
+      - name: Update README
+        run: |
+          echo "## My GitHub Activity" > README.md
+          echo "Recent GitHub activity for my repositories:" >> README.md
+          echo "This is a test update." >> README.md
+        shell: bash

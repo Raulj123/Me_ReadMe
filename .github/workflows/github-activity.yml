@@ -1,20 +1,20 @@
-name: Update GitHub Activity
-
+name:  🚀 Inserts Recent Activity 
 on:
   schedule:
-    - cron: '0 0 * * 0' # every Sunday for now
-  workflow_dispatch: {}
-
+    - cron: '0 0 * * 0' 
+  workflow_dispatch:
 jobs:
-  update-activity:
+  build:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
+    name: Update this repo's README with recent activity
 
-      - name: Update README
-        run: |
-          echo "## My GitHub Activity" > README.md
-          echo "Recent GitHub activity for my repositories:" >> README.md
-          echo "This is a test update." >> README.md
-        shell: bash
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Adds activity to readme
+        uses: Raulj123/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          COMMIT_MSG: ':zap: Updates recent activity'
+        with:
+          MAX_LINES: 10

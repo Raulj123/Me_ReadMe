@@ -1,7 +1,12 @@
 <h1 align="center"> Hi I'm Raul <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
+<div align="center"> 
+  
+[![Update GitHub Activity](https://github.com/Raulj123/Raulj123/actions/workflows/github-activity.yml/badge.svg)](https://github.com/Raulj123/Raulj123/actions/workflows/github-activity.yml) 
+
+</div>
+
 In my spare time I binge watch coding videos and play Rocket League 🚙 
 
-[![Update GitHub Activity](https://github.com/Raulj123/Raulj123/actions/workflows/github-activity.yml/badge.svg)](https://github.com/Raulj123/Raulj123/actions/workflows/github-activity.yml)
 
 [![](https://visitcount.itsvg.in/api?id=Raulj123&label=Profile%20Views&color=0&icon=4&pretty=false)](https://visitcount.itsvg.in)
 
@@ -19,12 +24,12 @@ In my spare time I binge watch coding videos and play Rocket League 🚙
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%2300999C.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=blue) 
 
-## Frameworks 
+## 🏗️ Frameworks I Use
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23E34F26.svg?style=for-the-badge&logo=svelte&logoColor=white)
 
 
-## Recent Activity :zap:
+## :zap: Recent Activity 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#29](https://github.com/Raulj123/First-Contribution-/pull/29) in [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-)
 2. 💪 Opened PR [#15](https://github.com/23fa-cpsc490/canyough/pull/15) in [23fa-cpsc490/canyough](https://github.com/23fa-cpsc490/canyough)
@@ -34,7 +39,7 @@ In my spare time I binge watch coding videos and play Rocket League 🚙
 6. 🎉 Merged PR [#26](https://github.com/Raulj123/First-Contribution-/pull/26) in [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-)
 <!--END_SECTION:activity-->
 
-
+## 💡 Most Used Programming Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raulj123&layout=compact&theme=dark)](https://github.com/Raulj123/github-readme-stats)
 
 <details>

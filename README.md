@@ -24,8 +24,8 @@ In my spare time I binge watch coding videos and play Rocket League 🚙
 ![Svelte](https://img.shields.io/badge/svelte-%23E34F26.svg?style=for-the-badge&logo=svelte&logoColor=white)
 
 
+## Recent Activity :zap:
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 

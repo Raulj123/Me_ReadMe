@@ -26,6 +26,12 @@ In my spare time I binge watch coding videos and play Rocket League 🚙
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#29](https://github.com/Raulj123/First-Contribution-/pull/29) in [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-)
+2. 💪 Opened PR [#15](https://github.com/23fa-cpsc490/canyough/pull/15) in [23fa-cpsc490/canyough](https://github.com/23fa-cpsc490/canyough)
+3. 🎉 Merged PR [#14](https://github.com/23fa-cpsc490/canyough/pull/14) in [23fa-cpsc490/canyough](https://github.com/23fa-cpsc490/canyough)
+4. 💪 Opened PR [#15](https://github.com/23fa-cpsc490/canyough/pull/15) in [23fa-cpsc490/canyough](https://github.com/23fa-cpsc490/canyough)
+5. 🎉 Merged PR [#27](https://github.com/Raulj123/First-Contribution-/pull/27) in [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-)
+6. 🎉 Merged PR [#26](https://github.com/Raulj123/First-Contribution-/pull/26) in [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-)
 <!--END_SECTION:activity-->
 
 

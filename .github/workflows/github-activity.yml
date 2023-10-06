@@ -14,7 +14,7 @@ jobs:
 
     - name: Fetch GitHub Activity
       run: |
-        GH_PAT=${{ GH_PAT }}
+        GH_PAT=${{ secrets.GH_PAT }}
         GH_USERNAME=Raulj123
         ACTIVITY=$(curl -s -H "Authorization: token $GH_PAT" "https://api.github.com/users/$GH_USERNAME/events/public")
         echo "## My GitHub Activity" > README.md

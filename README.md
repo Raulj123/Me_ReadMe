@@ -2,13 +2,10 @@
 <div align="center"> 
   
 [![Update GitHub Activity](https://github.com/Raulj123/Raulj123/actions/workflows/github-activity.yml/badge.svg)](https://github.com/Raulj123/Raulj123/actions/workflows/github-activity.yml) 
-
+[![](https://visitcount.itsvg.in/api?id=Raulj123&label=Profile%20Views&color=0&icon=4&pretty=false)](https://visitcount.itsvg.in)
 </div>
 
 In my spare time I binge watch coding videos and play Rocket League 🚙 
-
-
-[![](https://visitcount.itsvg.in/api?id=Raulj123&label=Profile%20Views&color=0&icon=4&pretty=false)](https://visitcount.itsvg.in)
 
 ##  🖥️ Worked with.. 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 

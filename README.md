@@ -28,12 +28,12 @@ In my spare time I binge watch coding videos and play Rocket League 🚙
 
 ## :zap: Recent Activity 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#30](https://github.com/Raulj123/First-Contribution-/issues/30) in [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-)
-2. ❗ Opened issue [#30](https://github.com/Raulj123/First-Contribution-/issues/30) in [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-)
-3. 🎉 Merged PR [#29](https://github.com/Raulj123/First-Contribution-/pull/29) in [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-)
-4. 💪 Opened PR [#15](https://github.com/23fa-cpsc490/canyough/pull/15) in [23fa-cpsc490/canyough](https://github.com/23fa-cpsc490/canyough)
-5. 🎉 Merged PR [#14](https://github.com/23fa-cpsc490/canyough/pull/14) in [23fa-cpsc490/canyough](https://github.com/23fa-cpsc490/canyough)
-6. 💪 Opened PR [#15](https://github.com/23fa-cpsc490/canyough/pull/15) in [23fa-cpsc490/canyough](https://github.com/23fa-cpsc490/canyough)
+1. ❌ Closed PR [#69](https://github.com/KendallDoesCoding/Choose-Your-Own-Adventure-Game/pull/69) in [KendallDoesCoding/Choose-Your-Own-Adventure-Game](https://github.com/KendallDoesCoding/Choose-Your-Own-Adventure-Game)
+2. 🔒 Closed issue [#30](https://github.com/Raulj123/First-Contribution-/issues/30) in [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-)
+3. ❗ Opened issue [#30](https://github.com/Raulj123/First-Contribution-/issues/30) in [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-)
+4. 🎉 Merged PR [#29](https://github.com/Raulj123/First-Contribution-/pull/29) in [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-)
+5. 💪 Opened PR [#15](https://github.com/23fa-cpsc490/canyough/pull/15) in [23fa-cpsc490/canyough](https://github.com/23fa-cpsc490/canyough)
+6. 🎉 Merged PR [#14](https://github.com/23fa-cpsc490/canyough/pull/14) in [23fa-cpsc490/canyough](https://github.com/23fa-cpsc490/canyough)
 <!--END_SECTION:activity-->
 
 ## 💡 Most Used Programming Languages 

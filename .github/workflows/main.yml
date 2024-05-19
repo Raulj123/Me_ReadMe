@@ -1,4 +1,4 @@
-name:  update README
+name: update README
 on:
   schedule: [{cron: "*/30 * * * *"}]
   push: {branches: ["master", "main"]}

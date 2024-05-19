@@ -3,23 +3,21 @@ on:
   schedule: [{cron: "*/30 * * * *"}]
   push: {branches: ["master", "main"]}
  
- jobs:
-  build:
+jobs:
+  render:
     runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
-
     steps:
-      -name: Use Python3
-        uses: actions/setup-python@v3
-        with:
-          python-version: "3.11"
-          architecture: "x64"
+     - name: Use Python3
+       uses: actions/setup-python@v3
+       with:
+         python-version: "3.11"
+         architecture: "x64"
       
-      -name: Update README
-        run: |
-          pip install "PyGithub" "python-dotenv"
-          python script.py
-        env:
-          TOKEN : ${{ secrets.TOKEN }}
+     - name: Update README
+       run: |
+        pip install "PyGithub" "python-dotenv"
+        python script.py
+       env:
+        TOKEN : ${{ secrets.TOKEN }}
 
       

@@ -16,7 +16,7 @@ jobs:
      - name: Update README
        run: |
         pip install "PyGithub" "python-dotenv"
-        python script.py
+        python3 script.py
        env:
         TOKEN : ${{ secrets.TOKEN }}
 

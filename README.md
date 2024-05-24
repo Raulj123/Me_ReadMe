@@ -1,7 +1,7 @@
 ## Raul Jarquin <sub><sup>:)</sup></sub>
 
 <p class="center">
-    <img alt="Repos badge" src="https://img.shields.io/badge/Public%20Repos-49-pink">
+    <img alt="Repos badge" src="https://img.shields.io/badge/Public%20Repos-50-pink">
     <a href="https://rjvhome.vercel.app/">
     <img alt="site badge" src="https://img.shields.io/badge/Site%20-rjvhome-pink">
     </a>
@@ -14,7 +14,7 @@
 <sub>README generated in python</sub>
 </h5>
 
-- 💻 Top Programming Languages:  Python 78.53%, Cython 4.25%, C 3.58%, Other (13.64%)
+- 💻 Top Programming Languages:  Python 78.49%, Cython 4.25%, C 3.58%, Other (13.68%)
 
-- 📝 Public Repos: 49
+- 📝 Public Repos: 50
 - Does anyone read these? 😔

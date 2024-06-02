@@ -14,7 +14,7 @@
 <sub>README generated in python</sub>
 </h5>
 
-- 💻 Top Programming Languages:  Python 78.49%, Cython 4.25%, C 3.58%, Other (13.69%)
+- 💻 Top Programming Languages:  Python 78.48%, Cython 4.25%, C 3.58%, Other (13.69%)
 
 - 📝 Public Repos: 50
 - Does anyone read these? 😔
